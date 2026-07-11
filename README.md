@@ -1,11 +1,5 @@
 # SV-bot
-import streamlit as st
-import asyncio
-import pandas as pd
-import numpy as np
-import os
-from datetime import datetime
-from decimal import Decimal, getcontext
+
 
 # --- WINDOWS-TO-LINUX MT5 VIRTUALIZATION FALLBACK ---
 try:
@@ -199,7 +193,7 @@ if st.session_state.is_trading:
     except Exception:
         pass
 
-requirements.txt.txt.
+
 
 streamlit
 ccxt
