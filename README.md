@@ -1,5 +1,8 @@
 # SV-bot
 
+requirements.txt.
+
+
 
 
 # --- WINDOWS-TO-LINUX MT5 VIRTUALIZATION FALLBACK ---
