@@ -2,6 +2,11 @@
 
 requirements.txt.
 
+streamlit
+ccxt
+numpy
+pandas
+
 
 
 
