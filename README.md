@@ -201,4 +201,8 @@ if st.session_state.is_trading:
 
 requirements.txt.txt.
 
+streamlit
+ccxt
+numpy
+pandas
 
