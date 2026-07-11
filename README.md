@@ -1,6 +1,7 @@
 # SV-bot
 
 
+
 # --- WINDOWS-TO-LINUX MT5 VIRTUALIZATION FALLBACK ---
 try:
     import ccxt.pro as ccxt_lib
